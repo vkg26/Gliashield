@@ -51,3 +51,6 @@ This project implements an AI-driven content moderation framework that processes
 ## Contact
 - You can contact me on vinayakgoyaliitd26@gmail.com
 
+## License
+- This project is open-source under the MIT License.
+
